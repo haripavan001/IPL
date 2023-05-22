@@ -111,16 +111,3 @@ teamsDetails.map((item)=>{
 }
 
 })
-
-
-
-
-
-// {
-//   "id": 0,
-//   "teamFullName": "Mumbai Indians",
-//   "sName": "MI",
-//   "fullSname":"MI (Mumbai Indians)" ,
-//   "teamIcon": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/MI/Logos/Roundbig/MIroundbig.png",
-//   "WonCount": 5,
-// },

@@ -56,14 +56,3 @@ for(var i=0;i<playersDetails.length;i++){
         `
     }
 }
-
-// {
-//   "id": 0,
-//   "playerName": "Hardik Pandya",
-//   "from": "GT",
-//   "price": "12.50 Cr",
-//   "isPlaying": true,
-//   "description": "All-rounder",
-//   "playerImg": 'https://assets.iplt20.com/ipl/IPLHeadshot2022/2740.png',
-//   "playerTeam": "Gujarat Titans"
-// }

@@ -48,13 +48,3 @@ $("#addteamform").submit(function (e) {
 
     location.href = "./index.html";
 })
-// {
-    //     "id": 24,
-        // "playerName": "Prithvi shaw",
-        // "from": "DC",
-        // "price": "18.50 Cr",
-        // "isPlaying": true,
-        // "description": "Batsman",
-        // "playerImg": "https://assets.iplt20.com/ipl/IPLHeadshot2022/3764.png",
-        // "playerTeam": "Delhi Capitals"
-    // },

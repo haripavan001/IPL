@@ -38,12 +38,3 @@ $("#addteamform").submit(function (e) {
 
    location.href = `./teams.html?name=${addData.sName}`;
 })
-
-        // <!-- {
-        //     "id": 7,
-        //     "teamFullName": "Sunrises Hyderabad",
-        //     "sName": "SH",
-        //     "fullSname":"SH (Sunrises Hyderabad)" ,
-        //     "teamIcon": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/SRH/Logos/Roundbig/SRHroundbig.png",
-        //     "WonCount": 1,
-        // }, -->
